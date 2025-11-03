@@ -42,22 +42,10 @@
     </ul>
   </div>
 body {
-  background-<img> url('restaurant-background.jpg');
-  background-size: cover;       /* makes the image fill the screen */
-  background-repeat: no-repeat; /* prevents the image from repeating */
-  background-attachment: fixed; /* keeps it still when scrolling */
-  font-family: Arial, sans-serif;
-  color: white;
-}
-
-;
 }.breakfast {
  <img>https://images.unsplash.com/photo-1504674900247-0877df9cc836');<img>
-}
-
 .lunch {
 <img>('https://images.unsplash.com/photo-1528605248644-14dd04022da1');<img>
 
 .dinner {
-<img>'https://images.unsplash.com/photo-1551782450-a2132b4ba21d<img>
-}
+<img>https://images.unsplash.com/photo-1551782450-a2132b4ba21d<img>
